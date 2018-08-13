@@ -1,0 +1,11 @@
+body {
+	background-color: grey;
+}
+.container {
+	text-align: center;
+	max-width: 900px;
+	margin: 0 auto;
+}
+.headline {
+	color: blue;
+}
